@@ -8,5 +8,5 @@ console.log("RAM en GB",funciones.disponibleRam(os.ramDisponible),"GB");
 console.log("____________________________________");
 console.log("RAM total ",os.ramTotal,"bits");
 console.log("RAM total en GB",funciones.totalrRam(os.ramTotal),"GB");
-console.log("Nuevo mensaje");
+
 
